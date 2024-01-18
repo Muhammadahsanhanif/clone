@@ -1,0 +1,73 @@
+.one{
+    margin-left:200px ;
+    margin-top: 30vh;
+    color: blue;
+    font-family: roboto;
+    font-size: 50px;
+    
+    
+    
+}
+body{
+    background-color: #f7f7f7;
+}
+@font-face{
+    font-family: roboto;
+    src: url(/Roboto-Black.ttf);
+}
+.two{
+    margin-left: 200px;
+    text-transform: capitalize;
+    font-family: roboto;
+    font-size: 20px;
+    margin-top: -4vh;
+    
+}
+.four{
+    float: right;
+    margin-top:-30VH ;
+    margin-right: 300px;
+   text-align: center;
+   border-radius: 5px 5px 5px 5px ;
+   box-shadow: 2px 2px  20px black;
+   
+}
+
+.six{
+    background-color: white;
+
+    height: 370px;
+    width: 370px;
+    margin-top: -10vh;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px ;
+}
+.five{
+    width:300px ;
+    height: 50px;
+    background-color: blue;
+    border-radius: 5px 5px 5px 5px ;
+    color: white;
+}
+.hm{
+    width: 300px;
+    height: 50px;
+    border-radius: 5px 5px 5px 5px ;
+
+    
+}
+.fn{
+    width:300px ;
+    height: 50px;
+    border-radius: 5px 5px 5px 5px ;
+}
+.even{
+    width: 250px;
+    height: 50px;
+    background-color: rgba(0, 128, 0, 0.781);
+    border-radius: 5px 5px 5px 5px ;
+    color: white;
+}
+.off{
+    margin-left: 700px;
+}
