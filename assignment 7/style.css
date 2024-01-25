@@ -1,0 +1,27 @@
+.zero{
+    width: 100vw;
+    height: 100vh;
+    /* border: 1px solid black; */
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+body{
+    background-color:rgb(53,53,255);
+}
+.zero > div {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    align-items:flex-end ;
+    padding: 10px;
+    font-size: 1.5em;
+    background-color: white;
+    
+}
+.one{
+    font-size: 1.5em;
+}

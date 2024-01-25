@@ -1,0 +1,174 @@
+.yoyo{
+    border:1px solid black ;
+    width: 400px;
+    height: 40px;
+   position: sticky;
+    left: 500px;
+    text-align: center;
+    padding: 10px; 
+   font-size: 1.5em;
+   background-color: #22a6b3;
+
+    
+}
+
+  .even{
+      width: 100vw;
+      height: 100vh;
+      /* border: 1px solid black; */
+      display: flex;
+      flex-wrap: wrap;
+     /* justify-content: flex-end; */
+
+}
+.even > div {
+  width: 300px;
+  height: 179px;
+  /* border: 2px solid black; */
+}
+.two{
+  background-color:#eccc68 ;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+ 
+}
+.three{
+  background-color:#ff7f50 ;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.four{
+  background-color:#ff6b81 ;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.five{
+  background-color:#a4b0be;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.six{
+  background-color:#57606f ;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.seven{
+  background-color: #ffa502;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.eight{
+  background-color: #ff6348;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.nine{
+  background-color:#ff4757;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.ten{
+  background-color: #747d8c;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.aa{
+  background-color: #2f3542;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.bb{
+  background-color: #7bed9f;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.cc{
+  background-color:#70a1ff;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.dd{
+  background-color: #5352ed;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.ee{
+  background-color: #ffffff;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.ff{
+  background-color: #dfe4ea;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.hh{
+  background-color:#2ed573 ;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.ii{
+  background-color:#1e90ff;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.oo{
+  background-color: #3742fa;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.nn{
+  background-color: #f1f2f6;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.mm{
+  background-color:#ced6e0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  
+}
+.anas{
+  font-size: 1.5em;
+   margin-left: 50px; 
+   margin-top:-10px; 
+}
